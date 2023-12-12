@@ -1,5 +1,5 @@
 public class HelloIti{
-	public void print()
+	public void printHelloGit()
 	{
 		System.out.print("Hello ITI");
 	}
