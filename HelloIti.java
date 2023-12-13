@@ -3,4 +3,7 @@ public class HelloIti{
 	{
 		System.out.println("Hello ITI ITI");
 	}
+	public void printHelloITI(){
+		System.out.print("Hello ITI");
+	}
 }
