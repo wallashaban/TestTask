@@ -1,6 +1,6 @@
 public class HelloIti{
 	public void printHelloGit()
 	{
-		System.out.print("Hello ITI");
+		System.out.println("Hello ITI");
 	}
 }
