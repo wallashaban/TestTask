@@ -7,4 +7,12 @@ public class HelloIti{
 		System.out.print("Hello ITI ");
 
 	}
+	public void printHelloIT(){
+		System.out.print("Hello ITI ");
+
+	}
+	public void printHelloI(){
+		System.out.print("Hello ITI ");
+
+	}
 }
